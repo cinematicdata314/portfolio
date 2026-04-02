@@ -42,7 +42,7 @@ export const ContactSection = () => {
                   <Linkedin />
                 </a>
                 <a
-                  href="https://github.com/ProgrammingGreek2002"
+                  href="https://github.com/cinematicdata314"
                   target="_blank"
                 >
                   <Github />
